@@ -33,7 +33,7 @@ See the deployed application [here](https://arcane-inlet-51935.herokuapp.com).
     = Git Setup =
     =============
         $ git clone https://github.com/hsengu/book-search-engine
-        $ cd ./social-network-api
+        $ cd ./book-search-engine
         $ npm install
 
 ## Usage
