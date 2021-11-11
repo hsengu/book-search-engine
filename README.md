@@ -40,7 +40,7 @@ See the deployed application [here](https://arcane-inlet-51935.herokuapp.com).
         $ npm run develop
 
 ## Contributing to Book Search Engine
-Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Social Network API.
+Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Book Search Engine.
 
 ## Tests
     There are no tests available for this application
